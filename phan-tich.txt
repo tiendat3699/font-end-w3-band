@@ -1,0 +1,15 @@
+1. header
+2. slider
+3.container// chứa content nếu có nhiểu content
+3.content
+	1.about
+	2.tour
+	3.contact
+	4.image
+5.footer
+
+
+break point:
+PC >=1024px
+740px<= tablet <1024px
+mobile <= 740ppx

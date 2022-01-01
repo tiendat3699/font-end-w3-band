@@ -12,4 +12,4 @@
 break point:
 PC >=1024px
 740px<= tablet <1024px
-mobile <= 740ppx
+mobile < 740ppx
